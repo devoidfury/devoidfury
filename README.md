@@ -27,6 +27,6 @@ Or give me a shout on discord: devoidfury#3045
 
 ## :chart_with_upwards_trend:	 Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=devoidfury&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=devoidfury&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devoidfury&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
