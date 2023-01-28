@@ -2,9 +2,6 @@
 
 I'm Tom, a software engineer. I dig open source software and try to contribute back to projects that I use.
 
-## Available to work
-
-I am looking for employment -- particularly flexible or part time but open to fulltime for the right opportunity.
 
 ## 💬 How to reach me:
 
