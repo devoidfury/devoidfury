@@ -7,5 +7,4 @@ I'm Tom, a software engineer. I dig open source software and try to contribute b
 
 My [website](https://furycodes.com/) has my email address as well as a contact form.
 
-Or give me a shout on discord: devoidfury#3045
-
+Feel free to give me a shout on discord, same username, or on my server here https://discord.gg/progdisc
